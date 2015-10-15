@@ -1,3 +1,3 @@
 # ghsample
-A sample folder for demonstrating how GitHub manages repositories
+My very own sample folder for demonstrating how GitHub manages repositories
  
